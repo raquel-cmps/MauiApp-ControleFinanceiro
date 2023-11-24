@@ -182,3 +182,4 @@ D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\obj\Debug\net8
 D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ControleFinanceiro.sourcelink.json

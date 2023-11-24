@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-24T12:55:54.229</Modified>
+      <Modified>2023-11-24T13:52:21.172</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-24T12:07:20.248</Modified>
+      <Modified>2023-11-24T13:47:49.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ControleFinanceiro.runtimeconfig.json">
       <PackagePath>ControleFinanceiro.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ControleFinanceiro.dll">
       <PackagePath>ControleFinanceiro.dll</PackagePath>
-      <Modified>2023-11-24T12:55:53.502</Modified>
+      <Modified>2023-11-24T13:52:20.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ControleFinanceiro.exe</PackagePath>
-      <Modified>2023-11-24T12:55:53.510</Modified>
+      <Modified>2023-11-24T13:52:20.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\VisualStudioProject\Maui\ControleFinanceiro\ControleFinanceiro\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
